@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-[Demo](https://wan-zhen.github.io/ComicViewer/)
+[Demo](https://wan-zhen.github.io/ComicViewer/dist)
 
 ## Build Setup
 
